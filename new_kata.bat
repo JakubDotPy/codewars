@@ -6,3 +6,7 @@ set filename=%1
 
 REM copy and delete pytestmark line
 findstr /v /c:"pytestmark" template.py >katas\%filename%.py
+
+REM add to git
+git add katas\%filename%.py
+git commit -m "added file for %filename%"
