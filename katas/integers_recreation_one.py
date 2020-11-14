@@ -1,7 +1,7 @@
 # ##############################################################################
 #  This solution for codewars kata was written by Jakub Cervinka.              #
 #  Kata name is integers_recreation_one.py                                     #
-#  Date: 14.11.20 19:17                                                        #
+#  Date: 14.11.20 20:16                                                        #
 # ##############################################################################
 
 

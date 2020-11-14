@@ -5,4 +5,4 @@ REM read the name of the file
 set filename=%1
 
 REM copy and delete pytestmark line
-findstr /v /c:"pytestmark" template.py >%filename%.py
+findstr /v /c:"pytestmark" template.py >katas\%filename%.py
