@@ -1,0 +1,6 @@
+integers_recreation_one
+not_very_secure
+perfect_powers
+primes_in_numbers
+sum_of_pairs
+sums_of_parts
