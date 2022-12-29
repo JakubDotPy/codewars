@@ -9,4 +9,5 @@ REM add the filename to list
 ECHO %kataname%>>solved_katas.txt
 
 REM ammend the commit with new message
+git add katas\%kataname%.py
 git commit --amend -m "solution for %kataname%"

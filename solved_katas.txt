@@ -4,3 +4,5 @@ perfect_powers
 primes_in_numbers
 sum_of_pairs
 sums_of_parts
+fib_trib_friends
+athletics_stats

@@ -12,13 +12,13 @@ def compute(a, b):
 ARGS_RESULTS = [
     ((1, 25), 26),
     ((42, 250), 292),
-    ]
+]
 
 
 @pytest.mark.parametrize(
     ('input_args', 'expected'),
     ARGS_RESULTS,
-    )
+)
 def test(input_args, expected) -> None:
     assert compute(*input_args) == expected
 
